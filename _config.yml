@@ -17,10 +17,10 @@ header:
 
 footer:
   show_powered_by: true
-#  contact:
-#    - type: email
-#      name: Email
-#      value: yourmail@domain.com
+  contact:
+    - type: email
+      name: Email
+      value: mk24bb[at-symbol]fsu[dot]edu
 #    - type: wechat
 #      value: YourWeChatUsername
 #      link: "#"
