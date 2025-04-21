@@ -6,7 +6,7 @@ description: Minsu's persoanl website
 baseurl: ""
 url: "https://mskimalltoohuman.github.io"
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+# google_analytics: "UA-121636368-3"
 
 header:
   pages:
@@ -16,7 +16,7 @@ header:
     - name: CV
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - type: email
       name: Email
