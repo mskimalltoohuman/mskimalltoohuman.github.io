@@ -21,6 +21,9 @@ footer:
     - type: email
       name: Email
       value: mk24bb[at-symbol]fsu[dot]edu
+    - type: philpeople
+      name: Philpeople
+      value: https://philpeople.org/profiles/minsu-kim-1
 #    - type: wechat
 #      value: YourWeChatUsername
 #      link: "#"
