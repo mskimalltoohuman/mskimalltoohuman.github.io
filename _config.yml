@@ -10,7 +10,7 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: About Me
+    - name: About
       slug: /
     - name: Research
     - name: CV
