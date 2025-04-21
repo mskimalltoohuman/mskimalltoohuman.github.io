@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  I'm a PhD student in Philosophy at <a href="https://philosophy.fsu.edu/person/minsu-kim">Florida State University</a>. Before coming here, I studied Philosophy at Kyung Hee University in South Korea, where I earned both my BA and MA. 
+  I'm a PhD student in Philosophy at <a href="https://philosophy.fsu.edu/">Florida State University</a>. Before coming here, I studied Philosophy at Kyung Hee University in South Korea, where I earned both my BA and MA. 
 </p>
 
 <br>
