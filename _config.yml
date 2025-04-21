@@ -3,7 +3,7 @@
 
 title: Minsu
 description: Minsu's persoanl website
-baseurl: ""
+baseurl: 
 url: "https://mskimalltoohuman.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
