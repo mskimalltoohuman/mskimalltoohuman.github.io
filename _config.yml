@@ -21,13 +21,13 @@ footer:
     - type: email
       name: Email
       value: mk24bb[at-symbol]fsu[dot]edu
-    - type: philpeople
-      name: Philpeople
-      value: https://philpeople.org/profiles/minsu-kim-1
 #    - type: wechat
 #      value: YourWeChatUsername
 #      link: "#"
-#  follow:
+  follow:
+    - type: philpeople
+      name: Philpeople
+      link: https://philpeople.org/profiles/minsu-kim-1
 #    - type: twitter
 #      name: Twitter
 #      link: http://twitter.com/YourTwitterUsername
