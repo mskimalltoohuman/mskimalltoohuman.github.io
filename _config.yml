@@ -10,9 +10,9 @@ og_image: /assets/img/profile-pic.jpg
 
 header:
   pages:
-    - name: About Me
+    - name: About
       slug: /
-#    - name: Research
+    - name: Research
 #    - name: CV
 
 footer:
