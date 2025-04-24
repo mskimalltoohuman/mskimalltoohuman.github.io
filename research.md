@@ -10,7 +10,7 @@ My tentative dissertation concerns a non-factualistic approach to epistemologica
 <br>
 
 **Works in progress** 
-* A paper on critique of Kane's Libertarianism
+* A paper on critique of Kane's libertarianism
 * A paper on loving and separating
 * A paper on reasons to begin to love
 * A paper on fake news and free speech
