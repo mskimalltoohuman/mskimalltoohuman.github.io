@@ -7,7 +7,8 @@ My philosophical interests center on the intersection of (im)morality and (ir)ra
 
 My tentative dissertation concerns a non-factualistic approach to epistemological crises, such as fake news, echo chambers, and conspiracy theories. While epistemological crises are often explored with regard to factual beliefs, I aim to challenge the idea that such crises can be exhaustively or primarily explained in terms of how agents respond to those beliefs. Rather, I seek to examine what roles religious beliefs or moral reasons may play in these phenomena, and whether they are central, even indispensable, to a proper understanding of them.
 
----
+<br>
+
 **Works in progress** 
 * A paper on critique of Kane's Libertarianism
 * A paper on loving and separating
@@ -16,7 +17,8 @@ My tentative dissertation concerns a non-factualistic approach to epistemologica
 * A paper on contractualism and praiseworthy motivations
 * A paper on critique of pragmatic skepticism
 
----
+<br>
+
 I also have philosophical interests in issues specific to Korean society. Here are some topics I intend to work on in the near or far future.
 - about secular partisanship of nominal and dogmatic K-Christian
 - about burden and fatigue of ‘some(썸)’ relationships (‘some’: a romantic yet ambiguous stage prior to becoming partners)
