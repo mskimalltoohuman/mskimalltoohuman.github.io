@@ -13,7 +13,6 @@ header:
     - name: About
       slug: /
     - name: Research
-      slug: /research/
 #    - name: CV
 
 footer:
