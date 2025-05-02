@@ -14,7 +14,6 @@ My tentative dissertation concerns a non-factualistic approach to epistemologica
 * A paper on loving and separating
 * A paper on reasons to begin to love
 * A paper on fake news and free speech
-* A paper on contractualism and praiseworthy motivations
 * A paper on critique of pragmatic skepticism
 
 <br>
