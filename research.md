@@ -5,7 +5,7 @@ slug: /research
 ---
 My philosophical interests center on the intersection of (im)morality and (ir)rationality at both individual and collective levels, with a focus on topics in action theory, moral psychology, and philosophy of religion.
 
-My tentative dissertation concerns a non-factualistic approach to epistemological crises, such as fake news, echo chambers, and conspiracy theories. While epistemological crises are often explored with regard to factual beliefs, I aim to challenge the idea that such crises can be exhaustively or primarily explained in terms of how agents respond to those beliefs. Rather, I seek to examine what roles religious beliefs or moral reasons may play in these phenomena, and whether they are central, even indispensable, to a proper understanding of them.
+My tentative dissertation concerns a non-factualistic approach to epistemological crises, such as fake news, echo chambers, and conspiracy theories. While epistemological crises are often explored with regard to factual beliefs, I aim to challenge the idea that such crises can be exhaustively or primarily explained in terms of how agents respond to those beliefs. Rather, I seek to examine what roles religious beliefs or moral reasons may play in the collective agency of these phenomena, and whether they are central, even indispensable, to a proper understanding of them.
 
 <br>
 
