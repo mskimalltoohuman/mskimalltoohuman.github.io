@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: minsu kim
+title: Minsu Kim
 description: Minsu's persoanl website
 baseurl: ""
 url: "https://mskimalltoohuman.github.io"
@@ -14,7 +14,7 @@ header:
       slug: /
     - name: Research
     - name: CV
-      external_url: "https://fsu-my.sharepoint.com/:b:/r/personal/mk24bb_fsu_edu/Documents/mskimalltoohuman/CV%20Minsu%20KIm/CV_Minsu_Kim.pdf?csf=1&web=1&e=xCfaNb"
+      url: "https://fsu-my.sharepoint.com/:b:/r/personal/mk24bb_fsu_edu/Documents/mskimalltoohuman/CV%20Minsu%20KIm/CV_Minsu_Kim.pdf?csf=1&web=1&e=xCfaNb"
 
 footer:
   show_powered_by: true
