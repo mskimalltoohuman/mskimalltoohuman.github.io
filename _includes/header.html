@@ -9,8 +9,8 @@
 
       <div class="menu">
         {% for page in site.header.pages %}
-          {#-- 외부 링크 처리 (새 탭에서 열림) --#}
           {% if page.external_url %}
+            <!-- 외부 링크 (새 탭) -->
             <a class="page-link" 
                href="{{ page.external_url }}" 
                target="_blank"
@@ -18,8 +18,8 @@
               {{- page.name -}}
             </a>
 
-          {#-- 내부 페이지 처리 --#}
           {% else %}
+            <!-- 내부 링크 -->
             {% if page.slug and page.slug != "" and page.slug != nil %}
               {% assign page_link = page.slug %}
             {% else %}
