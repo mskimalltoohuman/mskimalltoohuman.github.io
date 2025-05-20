@@ -14,7 +14,7 @@ header:
       slug: /
     - name: Research
     - name: CV
-      url: https://fsu-my.sharepoint.com/:b:/r/personal/mk24bb_fsu_edu/Documents/mskimalltoohuman/CV%20Minsu%20KIm/CV_Minsu_Kim.pdf?csf=1&web=1&e=xCfaNb
+      url: "https://fsu-my.sharepoint.com/:b:/r/personal/mk24bb_fsu_edu/Documents/mskimalltoohuman/CV%20Minsu%20KIm/CV_Minsu_Kim.pdf?csf=1&web=1&e=xCfaNb"
 
 footer:
   show_powered_by: true
