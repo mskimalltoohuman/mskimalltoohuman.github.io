@@ -9,15 +9,26 @@
 
       <div class="menu">
         {% for page in site.header.pages %}
-          {% if page.slug and page.slug != "" and page.slug != nil %}
-            {% assign page_link = page.slug %}
+          {#-- 외부 링크 처리 (새 탭에서 열림) --#}
+          {% if page.external_url %}
+            <a class="page-link" 
+               href="{{ page.external_url }}" 
+               target="_blank"
+               rel="noopener noreferrer">
+              {{- page.name -}}
+            </a>
+
+          {#-- 내부 페이지 처리 --#}
           {% else %}
-            {% assign page_link = "/" | append: page.name | downcase %}
+            {% if page.slug and page.slug != "" and page.slug != nil %}
+              {% assign page_link = page.slug %}
+            {% else %}
+              {% assign page_link = "/" | append: page.name | downcase %}
+            {% endif %}
+            <a class="page-link" href="{{ page_link | absolute_url }}">
+              {{- page.name -}}
+            </a>
           {% endif %}
-          {% assign page_link = page_link | absolute_url %}
-          <a class="page-link" href="{{ page_link }}">
-            {{- page.name -}}
-          </a>
         {% endfor %}
       </div>
     </nav>
