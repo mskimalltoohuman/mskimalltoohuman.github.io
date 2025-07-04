@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  I'm a first-year PhD student in philosophy at <a href="https://philosophy.fsu.edu/">Florida State University</a>. Before coming here, I studied philosophy at Kyung Hee University in South Korea, where I earned both my BA and MA. I'm
+  I'm a first-year PhD student in philosophy at <a href="https://philosophy.fsu.edu/">Florida State University</a>. Before coming here, I studied philosophy at Kyung Hee University in South Korea, where I earned both my BA and MA.
 </p>
 
 <p>
