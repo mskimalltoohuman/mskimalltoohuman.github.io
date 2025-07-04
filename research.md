@@ -20,7 +20,7 @@ My tentative dissertation concerns a non-factualistic approach to epistemologica
 
 I also have philosophical interests in issues specific to Korean society. Here are some topics I intend to work on in the near or far future.
 - about the secular partisanship of the nominal and dogmatic K-Christians
-- about the burden and fatigue of some(썸) relationships (‘some’: a romantic yet ambiguous stage prior to becoming partners)
+- about the burden and fatigue of some(썸) relationships ('some': a romantic yet ambiguous stage prior to becoming partners)
 - about responsibility and accountability in cases of disaster(참사)
 - about the meaning of 'jiral(지랄)' (IMO, a kind of bullshit involving certain evaluative judgments)
 - about moral attitudinal barriers to living together between disabled and non-disabled people
