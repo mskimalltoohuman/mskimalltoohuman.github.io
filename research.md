@@ -7,11 +7,12 @@ My research explores the actions, emotions, and attitudes of individual, plural,
 
 At the individual and plural levels, I focus on the intersection of what is not up to us and what we take as our own.
 > In action theory, I am interested in the action of deciding, questions of luck, ambivalence, and weakness of will.
+
 > In moral psychology, I am interested in themes of love, loneliness, and the absurd.
 
 At the collective level, my interest centers on the internal barriers and external challenges to living together, in the realm of social epistemology and philosophy of religion.
 > My dissertation addresses epistemological crises—such as echo chambers, fake news, and conspiracy theories. It mainly aims to capture agential factors of these phenomena that are not addressed by social-epistemic structural explanations.
-> 
+
 > Structure of the dissertation:
 > 	1. A challenge to the predominant social-structural explanations for epistemological crises.
 > 	2. A critical examination of the concepts of epistemic hinge, moral encroachment, and religious belief.
