@@ -40,7 +40,7 @@ I also have philosophical interests in issues specific to Korean society. Here a
 - about the meaning of 'jiral(지랄)' (IMO, a kind of bullshit involving certain evaluative judgments)
 - about moral attitudinal barriers to living together between disabled and non-disabled people
 - about the 2024 Korean medical strike as a form of collective bargaining
-- about structural injustice toward the disabled, the illegal protests of Solidarity Against Disability Discrimination (전장연), and disability-related political correctness
+- about structural injustice toward the disabled, the illegal protests of Solidarity Against Disability Discrimination(전장연), and disability-related political correctness
 - about the phenomenon of *hikikomori* and social withdrawal among Korean youth
 - about the ethics of celebrity, particularly concerning *de dicto* moral motivation and the asymmetry of morality
 - about an anarchist approach to political obligation regarding mandatory military service
