@@ -25,6 +25,7 @@ As opportunities allow, I broaden my research scope by studying cognitive scienc
 **Works in progress** 
 * A paper on critique of Kane's libertarianism
 * A paper on critique of Mele's compatibilism
+* A paper on superfluous manipulation
 * A paper on loving and separating
 * A paper on reasons to begin to love
 * A paper on an account of fast friends
