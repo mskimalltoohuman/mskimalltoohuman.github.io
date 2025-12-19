@@ -10,5 +10,5 @@ profile_picture:
 </p>
 
 <p>
-  My interests lie at the intersection of (im)morality and (ir)rationality. I'm especially drawn to topics in action theory, moral psychology, and philosophy of religion.
+  My research focuses on what is not up to us, what we take as our own, what brings us together, and what keeps us apart. I am especially drawn to topics in action theory, moral psychology, social epistemology, and philosophy of religion.
 </p>
