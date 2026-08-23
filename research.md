@@ -3,34 +3,27 @@ layout: default
 title: Research
 slug: /research
 ---
-My research explores the actions, emotions, and attitudes of individual, plural, and collective agents in terms of practical and moral reasoning.
+My research focuses on what is not up to us, what we take as our own, what brings us together, and what keeps us apart.
+* In action theory, I am interested in deciding, effort, skilled action, disability, and shared agency.
+* In moral psychology, I am interested in the distinct stages of romantic love, along with themes of self-pity, loneliness, moral worth, and absurdity.
+* In social epistemology, I am interested in echo chambers, fake news, epistemic hinges, and irrelevant influences.
 
-
-At the individual and plural levels, I focus on the intersection of what is not up to us and what we take as our own.
-* In action theory, I am interested in the action of deciding, questions of luck, ambivalence, and weakness of will.
-* In moral psychology, I am interested in themes of love, loneliness, and the absurd.
-
-At the collective level, my interest centers on the internal barriers and external challenges to living together, in the realm of social epistemology and philosophy of religion.
-* My dissertation addresses epistemological crises—such as echo chambers, fake news, and conspiracy theories. It mainly aims to capture agential factors of these phenomena that are not addressed by social-epistemic structural explanations.
-* Structure of the dissertation:
-  1. A challenge to the predominant social-structural explanations for epistemological crises.
-  2. A critical examination of the concepts of epistemic hinge, moral encroachment, and religious belief.
-  3. A proposal for a novel agent-based account of epistemological crises.
-
-
-As opportunities allow, I broaden my research scope by studying cognitive science and philosophy of science. At the same time, I maintain my long-standing interest in ethics by staying current with its themes.
+Recently, I have become interested in cognitive neuroscience, particularly in how empirical research engages with debates in action theory, moral psychology, and social epistemology. I have also become interested in topics at the intersection of metaphysics and philosophy of science, particularly causes, dispositions, and potentialities.
 
 <br>
 
 **Works in progress** 
-* A paper on critique of Kane's libertarianism
-* A paper on critique of Mele's compatibilism
-* A paper on superfluous manipulation
+* A paper on Kane's torn decisions
+* A paper on a critique of Mele's compatibilism
 * A paper on loving and separating
 * A paper on reasons to begin to love
-* A paper on an account of fast friends
+* A paper on deliberation when seeing each other
+* A paper on fast friends
+* A paper on beliefs relevant to race, gender, and culture
 * A paper on fake news and free speech
-* A paper on critique of pragmatic skepticism
+* A paper on a critique of pragmatic skepticism
+* A paper on value management in science
+* A paper on duties to oneself
 
 <br>
 
