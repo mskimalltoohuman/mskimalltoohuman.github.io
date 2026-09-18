@@ -13,7 +13,7 @@ Recently, I have become interested in cognitive neuroscience, particularly in ho
 <br>
 
 **Works in progress** 
-* A paper on Kane's torn decisions
+* A paper on Kane's torn decisions (under review)
 * A paper on a critique of Mele's compatibilism
 * A paper on loving and separating
 * A paper on reasons to begin to love
