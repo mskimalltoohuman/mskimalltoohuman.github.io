@@ -8,7 +8,7 @@ My research focuses on what is not up to us, what we take as our own, what br
 * In moral psychology, I am interested in the distinct stages of romantic love, along with themes of self-pity, loneliness, moral worth, and absurdity.
 * In social epistemology, I am interested in echo chambers, fake news, epistemic hinges, and irrelevant influences.
 
-Recently, I have become interested in cognitive neuroscience, particularly in how empirical research engages with debates in action theory, moral psychology, and social epistemology. I have also become interested in topics at the intersection of metaphysics and philosophy of science, particularly causes, dispositions, and potentialities.
+Recently, I have become interested in bridging cognitive science and social psychology with philosophy, especially, how cognitive mechanisms inform action theory, and how empirical social research enriches moral psychology and social epistemology. I have also become interested in topics at the intersection of metaphysics and philosophy of science, particularly causes, dispositions, and potentialities.
 
 <br>
 
